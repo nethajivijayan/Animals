@@ -1,0 +1,6 @@
+0 Background
+1 Tiger
+2 Lion
+3 Cheetah
+4 Elephant
+5 Panda
